@@ -1,0 +1,17 @@
+{
+  "name": "etherchat",
+  "version": "1.0.0",
+  "description": "a simple implementation of a message platform in solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "frederick",
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.14.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
